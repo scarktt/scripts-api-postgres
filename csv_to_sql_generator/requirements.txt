@@ -1,0 +1,6 @@
+# CLI
+click==8.1.7
+
+# Data
+pandas==2.2.3
+psycopg2==2.9.10
